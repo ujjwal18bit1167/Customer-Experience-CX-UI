@@ -1,0 +1,152 @@
+p {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.c {
+  display: flex;
+
+  width: 1400px;
+  height: auto;
+  right: 1px;
+
+  justify-content: space-between;
+}
+
+
+.testimonials-text {
+
+  width: 364px;;
+
+
+  background: #ffffff;
+  border: 2px solid #f53838;
+  box-sizing: border-box;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* image-icon  */
+.ellipse1 {
+  position: relative;
+  width: 45.5px;
+  height: 44.95px;
+  left: 1rem;
+  top: 1rem;
+}
+/* title */
+.firstname {
+  position: relative;
+  width: 101.92px;
+  height: 16.18px;
+  left: 2rem;
+  top: -0.5rem;
+
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 30px;
+
+
+  display: inline;
+  align-items: center;
+  text-align: center;
+
+  color: #0b132a;
+}
+
+/* address */
+.address {
+  position: relative;
+  /* width: 91.91px;
+height: 12.58px; */
+  margin-left: 5rem;
+  top: -1.7rem;
+
+  /* font-family: Rubik; */
+
+
+  font-size: 12px;
+  line-height: 30px;
+  /* or 250% */
+
+  display: block;
+  /* align-items: center; */
+  /* text-align: center; */
+  color: #4f5665;
+}
+
+/* rating */
+.rating {
+  position: relative;
+  width: 22px;
+  height: 14px;
+  margin-left: 19rem;
+  top: -5rem;
+
+  font-family: Rubik;
+
+
+  font-size: 15px;
+  line-height: 30px;
+
+
+  display: inline;
+  align-items: center;
+
+  color: #0b132a;
+}
+
+/* star */
+.star {
+  position: relative;
+  top: -4.8rem;
+  display: inline;
+
+}
+
+/* review */
+.review {
+  position: relative;
+  width: auto;
+  height: auto;
+
+
+
+  font-size: 14px;
+  line-height: 30px;
+
+  margin-left: 17px;
+  margin-right: 17px;
+  margin-top: -3rem;
+  display: flex;
+  align-items: center;
+
+  color: #0b132a;
+}
+
+/* next button */
+.cont3_next {
+  position: relative;
+  width: 60px;
+  height: 60px;
+
+  top: 5rem;
+  background: #f53838;
+  border: 0px solid #f53838;
+  border-radius: 40px;
+  box-sizing: border-box;
+  box-shadow: 0px 14px 44px rgba(14, 20, 34, 0.08);
+}
+.cont3_3 {
+  position: relative;
+  width: 60px;
+  height: 60px;
+
+  top: 5rem;
+  border: 1px solid #f53838;
+  border-radius: 40px;
+  box-sizing: border-box;
+  box-shadow: 0px 14px 44px rgba(14, 20, 34, 0.08);
+}
